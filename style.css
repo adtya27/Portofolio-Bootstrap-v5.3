@@ -1,0 +1,25 @@
+.jumbotron {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 57px;
+
+  justify-content: center;
+  align-items: center;
+  /* font-size: 2em; */
+}
+#projects {
+  padding-top: 80px;
+  background-color: #e2edff;
+}
+#about {
+  padding-top: 80px;
+}
+#contact {
+  padding-top: 50px;
+}
+
+ion-icon {
+  color: white;
+}
